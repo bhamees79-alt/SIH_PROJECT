@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+python-multipart
+nest-asyncio
+joblib
+numpy
+pandas
+scikit-learn
